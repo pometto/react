@@ -43,3 +43,9 @@ Projeyi GitHub’a koyarken
 
 License
 MIT
+
+Yukarıdaki dosyaları yerel olarak oluştur veya GitHub’da yeni repo yaratıp dosyaları ekle.
+Terminalde:
+npm install
+npm run dev
+Tarayıcıda http://localhost:5173 aç.
